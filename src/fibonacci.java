@@ -10,6 +10,6 @@ class fibonacci {
     public static void main(String args[])
     {
         int n = 9;
-        System.out.println(fib(n));
+        System.out.println(fib(50));
     }
 }
